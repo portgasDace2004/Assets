@@ -26,3 +26,5 @@ This will include all the websites that will be useful throughout my journey
 [Figma](https://www.figma.com/)
 [UIzard](https://uizard.com) ## AI to generate ui screens
 
+## Animations
+[Animsta](https://animista.net/) # For css animations 
